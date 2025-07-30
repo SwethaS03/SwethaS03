@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swetha</h1>
-<h3 align="center">Currently pursuing 5th year of 5 year Integrated M.Sc. Software Systems at PSG College of Technology.</h3>
+<h3 align="center">Results-driven Software Engineer with 2 years of experience, known for consistently delivering full-stack
+development projects from concept to deployment. Proficient in cloud architecture, systems design, and
+translating business requirements into scalable technical solutions. Graduated with an MS in Software
+Systems, combining technical depth with excellent communication and product presentation abilities.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
